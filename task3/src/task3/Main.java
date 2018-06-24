@@ -11,3 +11,4 @@ public class Main {
 		Pen finishedPen = (Pen) iAssemblyLineImpl.assembleProduct(pen);
 	}
 }
+//variant 4
